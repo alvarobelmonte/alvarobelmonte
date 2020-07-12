@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- My portfolio => www.alvarobelmonte.com
+- 🌱 I’m currently learning Vue, Nuxt, Tailwind and Strapi
 <!--
 **alvarobelmonte/alvarobelmonte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
