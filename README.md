@@ -1,8 +1,19 @@
+<h2> Hi, I'm Álvaro! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+
+
+### <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150"> ... 
+
+
+
+
+
+<!--
+**alvarobelmonte/alvarobelmonte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 ### Hi there 👋
 - My website => www.alvarobelmonte.com
 - 🌱 I’m currently learning Vue, Nuxt, Tailwind and Strapi
-<!--
-**alvarobelmonte/alvarobelmonte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
