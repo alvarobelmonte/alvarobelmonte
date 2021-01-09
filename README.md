@@ -1,5 +1,5 @@
 <h2> Hi, I'm Álvaro! <img src="https://media.giphy.com/media/K08z0ek0YyTmw/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/l41lUJ1YoZB1lHVPG/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/l41lL7byr2fvtxVHa/giphy.gif" width="230">
 
 <h3> www.alvarobelmonte.com</h3>
 <h3>🌱 I’m currently learning Vue, Nuxt and Strapi</h3>
