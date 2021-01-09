@@ -1,8 +1,6 @@
 <h2> Hi, I'm Álvaro! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="230">
 
-
-### <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150"> ... 
 
 
 
