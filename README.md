@@ -1,4 +1,4 @@
-<h2> Hi, I'm Álvaro! <img src="https://media.giphy.com/media/K08z0ek0YyTmw/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Álvaro!</h2>
 
 <h3> www.alvarobelmonte.com</h3>
 
